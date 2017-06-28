@@ -1,3 +1,5 @@
+hey gopes!!
+
 require 'sinatra'
 require 'data_mapper'
 
